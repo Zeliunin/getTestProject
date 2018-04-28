@@ -10,4 +10,8 @@ public class App
     {
         System.out.println( "Hello myCustomBranch!" );
     }
+    
+    public void name() {
+		System.out.println("Hello Java");
+	}
 }
